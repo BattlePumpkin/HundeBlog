@@ -1,0 +1,68 @@
+body
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	background-color: lightblue;
+	background: url("images/blogbackground4.jpg");
+	font-family: Arial, sans-serif;
+}
+
+.main
+{
+	width: 100%;
+}
+
+
+
+#welcome
+{
+	width: 100%;
+}
+
+textarea {
+	width: 300px;
+	height: 150px;
+}
+
+p
+{
+	font-weight: bold;
+}
+
+h1
+{
+	font-size: 18pt;
+	text-decoration: none;
+}
+
+h2
+{
+	font-size: 12pt;
+	text-decoration: none;
+}
+
+h4
+{
+	font-size: 8pt;
+	text-decoration: none;
+}
+
+h5
+{
+	font-size: 30pt;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+a
+{
+	text-decoration: none;
+	font-family: Century Gothic, CenturyGothic,AppleGothic, Arial, sans-serif;
+	color: grey;
+}
+
+h1, h2, h3, h4, h5
+{
+	font-family: Century Gothic, CenturyGothic,AppleGothic, Arial, sans-serif;
+}
